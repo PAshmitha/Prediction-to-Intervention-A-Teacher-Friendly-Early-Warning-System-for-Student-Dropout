@@ -1,0 +1,2 @@
+# Prediction-to-Intervention-A-Teacher-Friendly-Early-Warning-System-for-Student-Dropout
+This project is a Machine Learning-based Early Warning System designed to predict student dropout risk and help educators take timely action.  It analyzes academic, demographic, and socio-economic data to identify students who are at risk of dropping out and provides interpretable results with actionable insights.
